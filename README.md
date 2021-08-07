@@ -5,6 +5,8 @@
 
 - 🚴  And if there is still some time after all that, I like to take my bike on a ride. The longer the better! Find me on [Strava](https://www.strava.com/athletes/pauriach)
 
+- 💼 Would like to work with me ? Contact me through my [Malt profile](https://www.malt.fr/profile/philippeauriach)
+
 <!--
 **philippeauriach/philippeauriach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
