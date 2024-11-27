@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🎣  I'm co-founder and CTO of [FishFriender](https://www.fishfriender.com/users/V19R97C1-), a social fishing platform. I'm in charge of all the development, be it serverside, front, or mobile. After three year of pure mobile native development, we just revamped our app from scratch with react-native !
 
+- 🏗️ Building daily as a Senior Technical Architect at [Mobsuccess](https://www.mobsuccess.com/), a family of ad-tech crafters empowered by data and AI
+
 - ⏰  On my free time, I contribute on several projects, either as a freelance or open source. I'm currently mainly involved in Open Food Facts [Android](https://github.com/openfoodfacts/openfoodfacts-androidapp) and [iOS](https://github.com/openfoodfacts/openfoodfacts-ios) apps !
 
 - 🚴  And if there is still some time after all that, I like to take my bike on a ride. The longer the better! Find me on [Strava](https://www.strava.com/athletes/pauriach)
